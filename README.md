@@ -70,11 +70,7 @@ El dashboard en Power BI incluye las siguientes secciones:
 - 📄 README.md
 - 📄 Shoes_Sport_Sales.pbix # Informe completo en Power BI
 - 📄 Queries_Shoes_Sport_Sales.sql # Creación de tablas y consultas SQL
-- 📂 Data/ # Datos externos utilizados
-  marcas_embajadores.xlsx
-  scraping_modelos_precios.xlsx
-  google_trends.csv
-  otras_fuentes.xlsx
+- 📂 Data/ # Datos externos utilizados /   marcas_embajadores.xlsx /  scraping_modelos_precios.xlsx /   google_trends.csv /   otras_fuentes.xlsx
 - 📄 Informe_Final.pdf # Exportación del informe Power BI (visual)
 - 📷 preview_dashboard.png # Imagen resumen del dashboard
 
